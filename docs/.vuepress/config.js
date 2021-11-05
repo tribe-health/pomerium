@@ -168,6 +168,7 @@ module.exports = {
             "topics/getting-users-identity",
             "topics/original-request-context",
             "topics/kubernetes-integration",
+            "topics/mutual-auth",
             "topics/production-deployment",
             "topics/programmatic-access",
             "topics/single-sign-out",
